@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MiniFacebookBackendApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(MiniFacebookBackendApplication.class, args);
     }
 
